@@ -8,8 +8,6 @@ Installation details here.
 
 Here are some resources to get you started! If you find any challenges from this project are not properly documented or are unclear, please raise and issue and let us know! This is a fun, safe environment - don't worry if you're a GitHub newbie! :heart:
 
-* 
-
 # :muscle: How You Can Help
 
 We glady welcome contributions from the community. From updating the documentation to adding more functions, all ideas are welcome. Thank you in advance for all of your issues, pull requests, and comments! :star:
